@@ -1,0 +1,11 @@
+.sidebar-container {
+  width: 400px;
+}
+
+.remove-filter {
+  margin: 10px 0 5px;
+}
+
+.filter-input {
+  margin: 3px 0;
+}
